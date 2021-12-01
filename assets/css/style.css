@@ -286,8 +286,13 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+#hero-img {
+  border-radius: 10px;
+  width: auto;
+}
 #hero {
-  width: 100%;
+  border-radius: 5%;
+  width: 85%;
   height: 100vh;
   background: white;
   border-bottom: 2px solid white;
